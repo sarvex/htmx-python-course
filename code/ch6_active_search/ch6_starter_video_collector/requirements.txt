@@ -26,5 +26,5 @@ typing-extensions==4.10.0
     # via
     #   pydantic
     #   pydantic-core
-werkzeug==3.0.1
+werkzeug==3.0.6
     # via flask
